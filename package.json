@@ -1,0 +1,8 @@
+{
+  "name": "business-clinic-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Business Clinic website with blog content managed through Decap CMS",
+  "scripts": { "build": "node scripts/build-blog.mjs" },
+  "dependencies": { "js-yaml": "^4.1.0", "marked": "^15.0.0" }
+}
